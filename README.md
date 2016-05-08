@@ -45,3 +45,7 @@ and view the output with:
 ```
 !print
 ```
+
+
+
+Based on an IRC library by Charles Leifer
