@@ -6,7 +6,7 @@ Inside the directory run the command
 ```
 python boss.py
 ```
-Now open your favorite IRC chat client and connect to the IRC server (default is i'rc.freenode.net'), join the channel #cs460botnet-jlchao2.
+Now open your favorite IRC chat client and connect to the IRC server (default is i'rc.freenode.net'), join the given channel (default is #cs460botnet-jlchao2).
 
 In the chat box type:
 ```
